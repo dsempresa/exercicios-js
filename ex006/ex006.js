@@ -1,16 +1,24 @@
-let n = document.querySelector('.num')
+let numero = document.querySelector('.num')
 let resposta = document.querySelector('.res')
 let botao = document.querySelector('.invertendo')
 
-botao.addEventListener('click', function(e){
-    inverteNumero()
-})
-
-function inverteNumero() {
-    return num.replace()
+function numInverso(){
+    let inverso = 
 }
 
-inverteNumero()
+botao.addEventListener('click', function(){
+    if (!numero.value) return
+    numInverso(numero.value)
+    
+})
+
+resposta.innerText += numero
+numInverso()
+
+
+
+
+
     
 
 
