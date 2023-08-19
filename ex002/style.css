@@ -1,0 +1,18 @@
+body {
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-size: x-large;
+}
+
+input {
+    width: 100px;
+    height: 25px;
+}
+
+div {
+    margin-top: 20px;
+}
+

@@ -1,0 +1,17 @@
+body {
+    background-color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+}
+
+input {
+    border-radius: 5px;
+    background-color: antiquewhite;
+    width: 60px;
+}
+
+div {
+    font-weight: 800;
+    background-color: rgb(246, 255, 0);
+    margin-top: 10px;
+}
